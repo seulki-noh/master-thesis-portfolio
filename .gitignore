@@ -1,0 +1,12 @@
+# raw data (do not upload)
+data/raw/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
