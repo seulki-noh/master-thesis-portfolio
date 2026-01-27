@@ -10,3 +10,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+#virtual enviroment
+.venv/
+.venv_py39_backup/
