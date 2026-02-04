@@ -1,0 +1,6 @@
+term,coef,p_value,aic,selected_features
+const,-0.1544494172646001,0.01250384707205248,-98.9801770458078,"conditional_minmax, spatial_rel_minmax, nvc_count_maxscaled, crt_minmax"
+conditional_minmax,0.2862755002319683,0.004175484201392749,-98.9801770458078,"conditional_minmax, spatial_rel_minmax, nvc_count_maxscaled, crt_minmax"
+spatial_rel_minmax,0.4063644677054722,1.9606175201303262e-05,-98.9801770458078,"conditional_minmax, spatial_rel_minmax, nvc_count_maxscaled, crt_minmax"
+nvc_count_maxscaled,0.19246334295225426,0.05307080359541713,-98.9801770458078,"conditional_minmax, spatial_rel_minmax, nvc_count_maxscaled, crt_minmax"
+crt_minmax,0.1277323915144002,0.02214497646226065,-98.9801770458078,"conditional_minmax, spatial_rel_minmax, nvc_count_maxscaled, crt_minmax"

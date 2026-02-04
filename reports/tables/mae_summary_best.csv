@@ -1,0 +1,7 @@
+family,k,model,depth,mae,label
+range,5.0,baseline_cluster_mean_loocv,,0.034743833743011376,baseline_cluster_mean_loocv | range | k=5
+quantile,5.0,baseline_cluster_mean_loocv,,0.03749136895062734,baseline_cluster_mean_loocv | quantile | k=5
+quantile,5.0,dt_classifier_then_cluster_mean,2.0,0.1119273654714271,dt_classifier_then_cluster_mean | quantile | k=5 | depth=2
+range,2.0,dt_classifier_then_cluster_mean,3.0,0.12271058003364389,dt_classifier_then_cluster_mean | range | k=2 | depth=3
+regressor,,dt_regressor,3.0,0.13226239142948834,dt_regressor | depth=3
+global,,baseline_global_mean_loocv,,0.15154581933557298,baseline_global_mean_loocv
